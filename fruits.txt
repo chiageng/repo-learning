@@ -9,3 +9,4 @@ r
 b
 rb
 feature2
+conflict1
