@@ -12,3 +12,4 @@ feature2
 conflict2
 conflict1
 remote add
+local add to remote
